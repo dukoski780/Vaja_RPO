@@ -1,6 +1,13 @@
 # Vaja_RPO – Spletna trgovina
 
-Vaja_RPO je skupinski projekt pri predmetu Razvoj programske opreme, v katerem po metodi Scrum razvijamo spletno trgovino. Trgovina bo omogočala pregled in filtriranje produktov, košarico, registracijo uporabnikov ter pregled preteklih naročil.
+Vaja_RPO je skupinski projekt pri predmetu Razvoj programske opreme, v katerem po metodi Scrum razvijamo spletno trgovino z ženskimi pajkicami in športnimi oblačili. Trgovina bo omogočala pregled in filtriranje produktov, košarico, registracijo uporabnikov ter pregled preteklih naročil.
+
+## Ponudba
+
+- Kategorije: dolge pajkice, capri pajkice, termo pajkice, brezšivne pajkice, hlače za vsak dan, outlet
+- Lastnosti izdelka: velikost (XS do XXL), barva, material, kolekcija, cena, zaloga in oznaka "novo"
+- Domača stran: izpostavljeni izdelki, najbolj prodajani izdelki po kategorijah, mnenja kupcev, prednosti nakupa (brezplačna dostava, varen nakup, garancija)
+- Slog: čista, svetla stran z velikimi fotografijami izdelkov in kratkimi, prijaznimi besedili
 
 ## Skupina
 
@@ -15,7 +22,7 @@ Vaja_RPO je skupinski projekt pri predmetu Razvoj programske opreme, v katerem p
 Osnovni nivo (obvezno):
 
 - [ ] Podatkovna baza: uporabniki, produkti in kategorije, poslovalnice, naročila
-- [ ] Seznam produktov: paginacija, urejanje po ceni in nazivu, filtri, stran o produktu
+- [ ] Seznam produktov: paginacija, urejanje po ceni in nazivu, filtri (kategorija, velikost, barva, znamka, dobavitelj, razpoložljivost, cena), stran o produktu
 - [ ] Košarica: količina, cena, davek, dostava, izbira plačila in dostave, oddaja naročila
 - [ ] Registracija, prijava, urejanje profila in pozabljeno geslo
 - [ ] Pregled preteklih naročil za registrirane uporabnike
