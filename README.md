@@ -1,10 +1,10 @@
-# Spletna trgovina s pajkicami
+# RPO - MGJ
 
-Vaja_RPO je skupinski projekt pri predmetu Razvoj programske opreme, v katerem po metodi Scrum razvijamo spletno trgovino z ženskimi pajkicami in športnimi oblačili. Trgovina bo omogočala pregled in filtriranje produktov, košarico, registracijo uporabnikov ter pregled preteklih naročil.
+Vaja_RPO je skupinski projekt pri predmetu Razvoj programske opreme, v katerem po metodi Scrum razvijamo spletno trgovino RPO - MGJ z ženskimi pajkicami in športnimi oblačili. Trgovina bo omogočala pregled in filtriranje produktov, košarico, registracijo uporabnikov ter pregled preteklih naročil.
 
 ## O trgovini
 
-Trgovina prodaja ženske pajkice in oblačila za šport in vsakdan: dolge, capri, termo in brezšivne pajkice ter hlače za vsak dan. Namenjena je kupkam, ki želijo udobna in kakovostna oblačila po dostopni ceni in jih hitro najti po velikosti, barvi in namenu.
+RPO - MGJ prodaja ženske pajkice in oblačila za šport in vsakdan: dolge, capri, termo in brezšivne pajkice ter hlače za vsak dan. Namenjena je kupkam, ki želijo udobna in kakovostna oblačila po dostopni ceni in jih hitro najti po velikosti, barvi in namenu.
 
 Trgovina ima več poslovalnic, vsaka prodaja svoj nabor kategorij.
 
