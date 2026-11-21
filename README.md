@@ -1,10 +1,10 @@
-# Gibka – spletna trgovina s pajkicami in športnimi oblačili
+# RPO – MGJ: spletna trgovina s pajkicami in športnimi oblačili
 
-RPO – MGJ je skupinski projekt pri predmetu Razvoj programske opreme, v katerem po metodi Scrum razvijamo spletno trgovino Gibka. Trgovina bo omogočala pregled in filtriranje izdelkov, nakupovanje prek košarice, registracijo uporabnikov ter pregled preteklih naročil.
+RPO – MGJ je skupinski projekt pri predmetu Razvoj programske opreme, v katerem po metodi Scrum razvijamo spletno trgovino z ženskimi pajkicami in športnimi oblačili. Trgovina bo omogočala pregled in filtriranje izdelkov, nakupovanje prek košarice, registracijo uporabnikov ter pregled preteklih naročil.
 
 ## O trgovini
 
-Gibka je spletna trgovina z ženskimi pajkicami ter udobnimi oblačili za šport in vsakdan. Ponuja različne modele, od klasičnih in krajših pajkic do toplih zimskih in brezšivnih modelov.
+Trgovina prodaja ženske pajkice ter udobna oblačila za šport in vsakdan. Ponuja različne modele, od klasičnih in krajših pajkic do toplih zimskih in brezšivnih modelov.
 
 Namenjena je kupkam, ki iščejo udobna, kakovostna in cenovno dostopna oblačila. Izdelke lahko preprosto poiščejo glede na velikost, barvo, ceno in namen uporabe.
 
