@@ -1,22 +1,24 @@
-# RPO - MGJ
+# Gibka – spletna trgovina s pajkicami in športnimi oblačili
 
-Vaja_RPO je skupinski projekt pri predmetu Razvoj programske opreme, v katerem po metodi Scrum razvijamo spletno trgovino RPO - MGJ z ženskimi pajkicami in športnimi oblačili. Trgovina bo omogočala pregled in filtriranje produktov, košarico, registracijo uporabnikov ter pregled preteklih naročil.
+RPO – MGJ je skupinski projekt pri predmetu Razvoj programske opreme, v katerem po metodi Scrum razvijamo spletno trgovino Gibka. Trgovina bo omogočala pregled in filtriranje izdelkov, nakupovanje prek košarice, registracijo uporabnikov ter pregled preteklih naročil.
 
 ## O trgovini
 
-RPO - MGJ prodaja ženske pajkice in oblačila za šport in vsakdan: dolge, capri, termo in brezšivne pajkice ter hlače za vsak dan. Namenjena je kupkam, ki želijo udobna in kakovostna oblačila po dostopni ceni in jih hitro najti po velikosti, barvi in namenu.
+Gibka je spletna trgovina z ženskimi pajkicami ter udobnimi oblačili za šport in vsakdan. Ponuja različne modele, od klasičnih in krajših pajkic do toplih zimskih in brezšivnih modelov.
 
-Trgovina ima več poslovalnic, vsaka prodaja svoj nabor kategorij.
+Namenjena je kupkam, ki iščejo udobna, kakovostna in cenovno dostopna oblačila. Izdelke lahko preprosto poiščejo glede na velikost, barvo, ceno in namen uporabe.
+
+Trgovina ima več poslovalnic, pri čemer vsaka ponuja svoj izbor kategorij izdelkov.
 
 ## Ponudba
 
 | Kategorija | Opis |
 |---|---|
-| Dolge pajkice | Visok pas, za šport in vsak dan |
-| Capri pajkice | Krajše, do sredine meč, za toplejše dni |
-| Termo pajkice | Notranja podloga za hladne dni |
-| Brezšivne pajkice | Brez šivov, raztegljiv material |
-| Hlače za vsak dan | Elegantnejši kroj za službo in prosti čas |
+| Dolge pajkice | Klasične dolge pajkice, primerne za šport in vsakodnevno nošenje |
+| 3/4 pajkice | Krajše pajkice, ki segajo pod kolena oziroma do sredine meč, primerne za toplejše dni |
+| Tople pajkice | Pajkice s toplo notranjo podlogo za hladnejše dni |
+| Brezšivne pajkice | Raztegljive pajkice z minimalnim številom šivov za večje udobje |
+| Hlače za vsak dan | Udobne hlače za službo, prosti čas in vsakodnevne aktivnosti |
 | Outlet | Znižani izdelki iz prejšnjih kolekcij |
 
 Vsak izdelek ima:
