@@ -1,6 +1,8 @@
 # RPO – MGJ: spletna trgovina s pajkicami in športnimi oblačili
 
-RPO – MGJ je skupinski projekt pri predmetu Razvoj programske opreme, v katerem po metodi Scrum razvijamo spletno trgovino z ženskimi pajkicami in športnimi oblačili. Trgovina bo omogočala pregled in filtriranje izdelkov, nakupovanje prek košarice, registracijo uporabnikov ter pregled preteklih naročil.
+RPO – MGJ je skupinski projekt pri predmetu Razvoj programske opreme, v katerem po metodi Scrum razvijamo spletno trgovino z ženskimi pajkicami in športnimi oblačili. Po 2. ciklu so dokončani podatkovna baza, seznam izdelkov, stran izdelka in funkcije uporabniškega računa. Dodajanje izdelka v košarico deluje, celoten nakupni postopek pa ni bil del cilja tega cikla.
+
+> Spodnji opis prikazuje načrtovano trgovino. Kaj smo že dokončali, je zapisano v razdelku [Delo po ciklih](#delo-po-ciklih).
 
 ## O trgovini
 
@@ -86,6 +88,27 @@ Na domači strani je gumb za izbiro jezika z zastavo in imenom jezika: slovenš�
 | poslovalnice_kategorije | katere kategorije ima posamezna poslovalnica |
 | naročila | številka, uporabnik ali podatki gosta, datum, status, način plačila in dostave, skupna cena |
 | postavke_naročila | naročilo, različica izdelka, količina, cena ob nakupu |
+
+## Delo po ciklih
+
+### 1. cikel – priprava na razvoj
+
+- Vzpostavili smo projekt v Jiri, pripravili nabor uporabniških zgodb in jih ocenili z metodo Planning Poker.
+- Uredili smo GitHub repozitorij `Vaja_RPO`, veji `dev` in `master` ter v README opisali trgovino in njene funkcionalnosti.
+- Določili smo tehnologije (PHP, MySQL, HTML in CSS) ter se usklajevali prek Discorda.
+
+### 2. cikel – razvoj trgovine (22. 11.–9. 12. 2026)
+
+Cilj cikla smo dosegli: dokončali smo vse štiri načrtovane zgodbe, skupaj 21 točk.
+
+| Zgodba | Kaj smo naredili | Točke |
+|---|---|---:|
+| SCRUM-5 | Pripravili smo podatkovno bazo za uporabnike, izdelke s kategorijami, poslovalnice, naročila in ocene izdelkov. | 8 |
+| SCRUM-6 | Izdelali smo seznam izdelkov s paginacijo, razvrščanjem po ceni in nazivu ter filtri po znamki, zalogi, dobavitelju in ceni. | 5 |
+| SCRUM-7 | Izdelali smo stran izdelka z daljšim opisom, tehničnimi podrobnostmi, garancijo, povezavo in dodajanjem izdelka v košarico. | 3 |
+| SCRUM-9 | Uredili smo registracijo, prijavo in odjavo, urejanje profila ter ponastavitev gesla prek e-pošte. | 5 |
+
+Napredek smo spremljali v Jiri, za dogovore in usklajevanje pa smo uporabljali Discord. Celotna košarica z oddajo naročila, pregled preteklih naročil in izbira jezika niso bili del cilja 2. cikla.
 
 ## Skupina
 
